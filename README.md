@@ -33,11 +33,11 @@ git clone https://github.com/fayyozbobokulov/Drag-Drop.git
 Here you can see how to do it. You need to copy and paste this code
 
 ```sh
-git install
+npm install
 ```
 or simply
 ```sh
-git i
+npm i
 ```
 
 3. In order to run this app you need to clarify in which mode you want to run it. There are two modes
