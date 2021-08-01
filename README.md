@@ -18,7 +18,7 @@ This app is created in study purposes.
 These technologies are used to build this app.
 
 
-##Installation Instructions
+## Installation Instructions
 
 1. You need to donwnload file from github or clone it.
 
